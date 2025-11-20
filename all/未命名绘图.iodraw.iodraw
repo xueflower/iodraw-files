@@ -176,7 +176,7 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-70" target="F37B8E9pYQGgaaXn2kNh-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-70" value="营养管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-70" value="食材营养" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
