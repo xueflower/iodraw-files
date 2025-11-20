@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-31" value="排餐详情：menu_recipe_detail" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="950" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-40" target="F37B8E9pYQGgaaXn2kNh-15" edge="1">
           <mxGeometry relative="1" as="geometry">
