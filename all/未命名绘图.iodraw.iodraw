@@ -36,6 +36,9 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-6" target="F37B8E9pYQGgaaXn2kNh-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-6" target="F37B8E9pYQGgaaXn2kNh-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-6" value="官方菜品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -156,6 +159,9 @@
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-59" value="食材管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
