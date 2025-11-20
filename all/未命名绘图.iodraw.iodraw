@@ -154,6 +154,9 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-54" value="同步&lt;div&gt;单向&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-59" target="F37B8E9pYQGgaaXn2kNh-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-59" value="食材管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -161,7 +164,7 @@
           <mxGeometry x="250" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-69" value="供食绑定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-70" target="F37B8E9pYQGgaaXn2kNh-59">
           <mxGeometry relative="1" as="geometry" />
