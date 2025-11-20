@@ -247,7 +247,7 @@
           <mxGeometry x="740" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="So3kCoxpm2PVy2_Ja0hv-9" value="商品表：ts_canteen_goods" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1500" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
