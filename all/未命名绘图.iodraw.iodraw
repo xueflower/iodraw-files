@@ -154,6 +154,9 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-55" value="查询报价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
