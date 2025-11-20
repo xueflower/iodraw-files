@@ -54,7 +54,7 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-3" value="排餐商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-4" value="排餐场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
