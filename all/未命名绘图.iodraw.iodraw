@@ -119,7 +119,7 @@
           <mxGeometry x="1250" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-42" value="detail_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1210" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="1140" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-44" value="dishes_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1130" y="110" width="60" height="30" as="geometry" />
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-83" value="inventory_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="715" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
