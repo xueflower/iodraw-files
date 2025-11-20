@@ -118,8 +118,11 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-44" value="dishes_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-45" target="F37B8E9pYQGgaaXn2kNh-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-45" value="生成采购单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-47" target="F37B8E9pYQGgaaXn2kNh-48">
           <mxGeometry relative="1" as="geometry" />
@@ -127,10 +130,13 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-47" value="供应商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-48" target="F37B8E9pYQGgaaXn2kNh-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-48" value="商品管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-50" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
