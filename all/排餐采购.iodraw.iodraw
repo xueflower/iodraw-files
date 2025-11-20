@@ -106,7 +106,7 @@
           <mxGeometry x="580" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-30" value="recipe_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1020" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="800" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-31" target="F37B8E9pYQGgaaXn2kNh-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
