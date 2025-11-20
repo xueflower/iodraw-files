@@ -246,6 +246,9 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-24" value="数据存入：menu_recipe" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So3kCoxpm2PVy2_Ja0hv-9" target="F37B8E9pYQGgaaXn2kNh-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="So3kCoxpm2PVy2_Ja0hv-9" value="商品表：ts_canteen_goods" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1390" y="110" width="120" height="60" as="geometry" />
         </mxCell>
