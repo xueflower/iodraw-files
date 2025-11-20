@@ -238,7 +238,7 @@
           <mxGeometry x="740" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="So3kCoxpm2PVy2_Ja0hv-6" value="移动端菜谱：menu_app_recipe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="920" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="175" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
