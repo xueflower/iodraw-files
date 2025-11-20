@@ -40,19 +40,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-6" value="官方菜品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-9" target="F37B8E9pYQGgaaXn2kNh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-9" value="门店菜谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-10" target="F37B8E9pYQGgaaXn2kNh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-10" value="平台：ts_recipe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-13" target="F37B8E9pYQGgaaXn2kNh-15">
           <mxGeometry relative="1" as="geometry" />
@@ -61,10 +61,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-13" value="平台：ts_recipe_store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-15" value="租户：menu_dishes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-18" target="F37B8E9pYQGgaaXn2kNh-19">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-59" value="食材管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-64" value="选择食材" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="40" width="60" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-70" value="食材营养" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-48" target="F37B8E9pYQGgaaXn2kNh-55">
           <mxGeometry relative="1" as="geometry">
@@ -189,27 +189,6 @@
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-83" value="inventory_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="715" y="190" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-84" value="门店菜谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-85" value="平台：ts_recipe_store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-86" value="租户：menu_dishes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-87" value="平台：ts_recipe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="-10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-88" value="官方菜品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="-10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-89" value="食材管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="-130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F37B8E9pYQGgaaXn2kNh-90" value="食材营养" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
