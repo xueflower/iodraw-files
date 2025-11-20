@@ -98,14 +98,15 @@
             <mxPoint x="1190" y="265" as="sourcePoint" />
             <mxPoint x="870" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1140" y="265" />
-              <mxPoint x="1130" y="265" />
-              <mxPoint x="1130" y="190" />
+              <mxPoint x="1140" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-31" value="排餐详情：menu_recipe_dishes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-39" value="recipe_id关联" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
