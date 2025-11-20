@@ -205,6 +205,9 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-96" value="采购入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="F37B8E9pYQGgaaXn2kNh-98" value="采购入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
