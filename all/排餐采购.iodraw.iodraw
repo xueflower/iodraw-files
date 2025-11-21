@@ -87,7 +87,7 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-22" target="F37B8E9pYQGgaaXn2kNh-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-24" target="So3kCoxpm2PVy2_Ja0hv-1">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-24" target="So3kCoxpm2PVy2_Ja0hv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F37B8E9pYQGgaaXn2kNh-22" value="生成排餐计划" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -225,19 +225,19 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-105" value="出库单" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So3kCoxpm2PVy2_Ja0hv-1" target="F37B8E9pYQGgaaXn2kNh-24">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So3kCoxpm2PVy2_Ja0hv-1" target="F37B8E9pYQGgaaXn2kNh-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So3kCoxpm2PVy2_Ja0hv-1" target="So3kCoxpm2PVy2_Ja0hv-6">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So3kCoxpm2PVy2_Ja0hv-1" target="So3kCoxpm2PVy2_Ja0hv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-1" value="关联场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-1" value="关联场景" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-6" value="移动端菜谱：menu_app_recipe&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设备菜谱：device_recipe&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-6" value="移动端菜谱：menu_app_recipe&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设备菜谱：device_recipe&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="930" y="-60" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-22" target="F37B8E9pYQGgaaXn2kNh-24">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F37B8E9pYQGgaaXn2kNh-22" target="F37B8E9pYQGgaaXn2kNh-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="280" as="sourcePoint" />
             <mxPoint x="800" as="targetPoint" />
@@ -246,11 +246,14 @@
         <mxCell id="F37B8E9pYQGgaaXn2kNh-24" value="数据存入：menu_recipe" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So3kCoxpm2PVy2_Ja0hv-9" target="F37B8E9pYQGgaaXn2kNh-40">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So3kCoxpm2PVy2_Ja0hv-9" target="F37B8E9pYQGgaaXn2kNh-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So3kCoxpm2PVy2_Ja0hv-9" value="商品表：ts_canteen_goods" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="So3kCoxpm2PVy2_Ja0hv-9" value="商品表：ts_canteen_goods" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5IHxTBw2sn97H4Nv4GvW-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="20" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
