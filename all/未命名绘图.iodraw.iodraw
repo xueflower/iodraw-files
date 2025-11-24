@@ -21,6 +21,9 @@
         <mxCell id="G2opgvv_OtsjaZC7kShA-7" value="访问小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="110" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G2opgvv_OtsjaZC7kShA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G2opgvv_OtsjaZC7kShA-8" target="G2opgvv_OtsjaZC7kShA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G2opgvv_OtsjaZC7kShA-8" value="平台用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -30,7 +33,7 @@
         <mxCell id="G2opgvv_OtsjaZC7kShA-12" value="merchant_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G2opgvv_OtsjaZC7kShA-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G2opgvv_OtsjaZC7kShA-13" value="商户用户库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
