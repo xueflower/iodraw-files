@@ -27,6 +27,9 @@
         <mxCell id="G2opgvv_OtsjaZC7kShA-10" value="openId" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G2opgvv_OtsjaZC7kShA-11" value="&lt;div style=&quot;color: rgb(209, 211, 219); background-color: rgb(26, 27, 29); font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; line-height: 22px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #ded47e;&quot;&gt;Merchant_Id&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
